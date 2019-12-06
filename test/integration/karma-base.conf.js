@@ -19,7 +19,7 @@ module.exports = function(config) {
 			}
 		},
 
-		browsers: ["ChromeHeadlessNoSandbox"],
+		browsers: ["Chrome"],
 
 		browserConsoleLogOptions: {
 			level: "error"
